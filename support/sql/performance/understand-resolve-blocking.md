@@ -1,13 +1,13 @@
 ---
-title: Understand and resolve blocking problems
-description: This article provides instruction on first understanding what blocking is in terms of SQL Server and furthermore how to investigate its occurrence.
+title: Resolve blocking problems
+description: This article provides information on blocking in SQL Server and how to investigate and resolve problems realated to it.
 ms.date: 04/14/2021
 ms.custom: sap:Performance
 ms.reviewer: ramakoni
 ms.prod: sql
 ms.technology: performance 
 ---
-# Understand and resolve SQL Server blocking problems
+# Resolve SQL Server blocking problems
 
 _Applies to:_ &nbsp; SQL Server (all supported versions), Azure SQL Managed Instance
 
